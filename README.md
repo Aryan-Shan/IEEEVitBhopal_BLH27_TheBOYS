@@ -32,7 +32,9 @@
    git clone https://github.com/Aryan-Shan/IEEEVitBhopal_BLH27_TheBOYS.git
    
 ## Usage Instructions:
- Visit www.demolink.com
+ Visit https://aryan-shan.github.io/IEEEVitBhopal_BLH27_TheBOYS/ 
+
+
  
 ## Theme-Fit:
  Student Welfare
