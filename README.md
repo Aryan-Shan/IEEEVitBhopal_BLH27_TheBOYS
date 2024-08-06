@@ -29,7 +29,7 @@
 ## Setup Instructions:
 1. Clone the repository:
    ```bash
-   git clone [repolink]
+   git clone https://github.com/Aryan-Shan/IEEEVitBhopal_BLH27_TheBOYS.git
    
 ## Usage Instructions:
  Visit www.demolink.com
