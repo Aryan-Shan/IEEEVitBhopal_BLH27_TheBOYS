@@ -302,7 +302,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   function displayTitle() {
     const titleText = "PRO-Folio";
-    const footerText = " | PRO-Folio";
+    const footerText = " | P.F.";
     const titleElement = document.getElementById("title");
     const footerElement = document.getElementById("footer");
     typeEffect(titleElement, titleText, 100);
