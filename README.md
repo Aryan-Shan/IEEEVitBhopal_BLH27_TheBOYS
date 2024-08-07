@@ -30,6 +30,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/Aryan-Shan/IEEEVitBhopal_BLH27_TheBOYS.git
+2. Run index.html in any browser.
    
 ## Usage Instructions:
  Visit https://aryan-shan.github.io/IEEEVitBhopal_BLH27_TheBOYS/ 
@@ -41,3 +42,6 @@
  
 ## Future Enhancements
  More complex actions can be added
+
+## PPT:
+ Visit https://www.canva.com/design/DAGNEY-wTv0/ELt3HgKGqhT26mPBHXmVrQ/edit
